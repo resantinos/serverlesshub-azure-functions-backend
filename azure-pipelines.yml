@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '3b6b6f17-dae3-4a37-acd2-cbba7c4a29cc'
+  azureSubscription: '0f64b3d3-352e-48d9-8d43-8eb6580ab2ee'
 
   # Function app name
   functionAppName: 'sh-demo-dev-api'
